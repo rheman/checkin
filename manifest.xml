@@ -14,6 +14,5 @@
 	<requires>
 		<type>plugin</type>
 		<name>hypeDropzone</name>
-		<version>6.0</version>
 	</requires>		
 </plugin_manifest>
